@@ -1,0 +1,1 @@
+Cloud Academy NextJS and CosmosDB Sample Application
